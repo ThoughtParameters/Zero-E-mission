@@ -172,7 +172,13 @@ electricity with no crankshaft:
 H₂ + ½ O₂ → H₂O + Heat → Piston motion → Linear generator → AC electricity
 ```
 
-The **only combustion product is water vapour**—no CO₂, no CO, no particulate matter.
+The **primary combustion product is water vapour**, with no CO₂, CO, or particulate
+matter. However, burning hydrogen in air at high flame temperatures can produce nitrogen
+oxides (NOx) from atmospheric nitrogen. NOx formation is controlled through lean-burn
+combustion strategies, exhaust-gas recirculation (EGR), or water/steam injection. Where
+truly zero tailpipe pollutants are required, a **hydrogen fuel cell** can replace or
+supplement the FPLG: fuel cells convert H₂ to electricity electrochemically (H₂ + ½O₂
+→ H₂O + electricity) with no combustion, eliminating NOx production entirely.
 
 See [Linear Power Generators](./linear-power-generators.md) for the full technical breakdown
 of FPLG operation.

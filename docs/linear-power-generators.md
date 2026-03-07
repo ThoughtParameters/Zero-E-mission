@@ -100,8 +100,14 @@ linear generator forms a zero-emission power node:
             (No crankshaft, no gearbox)
 ```
 
-Hydrogen combustion produces only water vapour as a by-product, making the FPLG + LPG
-combination one of the cleanest mechanical power generation options available.
+Hydrogen combustion in air produces water vapour as its primary by-product with no CO₂,
+CO, or particulate matter. However, the high flame temperatures of H₂ combustion can
+generate nitrogen oxides (NOx) from atmospheric nitrogen. NOx formation is mitigated
+through strategies such as lean-burn combustion, exhaust-gas recirculation (EGR), or
+water/steam injection—making the FPLG + LPG combination one of the cleanest mechanical
+power generation options available. For truly zero tailpipe pollutants, hydrogen fuel
+cells (which react H₂ electrochemically rather than via combustion) eliminate NOx
+entirely and can be used in place of or alongside an FPLG.
 
 See [Solar Photovoltaic and Hydrogen Power Generation](./solar-photovoltaic-hydrogen-power.md)
 for details on producing the hydrogen feedstock from solar energy and atmospheric water.
